@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Configuration files with sensitive data
+config.py
+
+# Data files
+twitter_data/
+*.csv
+*.json
+*.log
+*.txt
+!README.md
+!requirements.txt
+
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+error.log
+
+# Temporary files
+*.tmp
+*.bak
+
